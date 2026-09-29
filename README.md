@@ -1,49 +1,24 @@
-# Juan Pérez
+# Percy Guitens
 
-## Desarrollador de Software
+## 2ºGRADO DE ASIR
 
 ### Sobre mí
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma**, con interés en el *desarrollo web* y la *programación de sistemas*. Actualmente formándome en el __IES Miguel Herrero Pereda__.
+Estudiante de **Administración de Sistemas Informáticos en Red (2º curso)**, con __Bachillerato de Ciencias Tecnológicas__. Interesado en el *desarrollo web* y la *administración de sistemas*.
 
 ---
 
 ### Tecnologías
 
-* Java
-* Python
-* JavaScript
+* PowerShell
+* GitHub
+* AWS
 * SQL
+* Azure
 
 ### Formación
 
-1. Bachillerato de Tecnología
-2. Grado Superior DAM
+1. Bachillerato de Ciencias Tecnológicas
+2. Grado Superior ASIR
 3. Curso de especialización en Backend
 4. Prácticas en empresa
-
-### Proyectos destacados
-
-| Proyecto | Descripción |
-| --- | --- |
-| Gestor de tareas | Aplicación de escritorio para organización personal |
-| API REST | Servicio backend con autenticación de usuarios |
-| Panel de control | Dashboard con visualización de datos |
-
-### Buenas prácticas
-
-Uso comandos básicos de terminal como `ls -al` para la gestión de archivos.
-
-\```
-echo "hola mundo"
-cp archivo1 archivo2
-ls -al
-\```
-
-> "El código limpio siempre parece que fue escrito por alguien a quien le importa."
-
-### Contacto
-
-[IES MIGUEL HERRERO](https://www.educantabria.es/web/ies-miguel-herrero-pereda)
-
-![IES MIGUEL HERRERO](img/miguel.jpg)
